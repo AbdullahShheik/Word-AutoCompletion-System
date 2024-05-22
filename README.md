@@ -5,5 +5,5 @@ Clone the repository\
 Open the files together in an IDE\
 Run the Display.py file\
 Write 'python3-m streamlit run Display.py' on the terminal\
-Enjoy!\
+Enjoy!
 
